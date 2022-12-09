@@ -1,0 +1,19 @@
+h1 { 
+background-color: aqua;
+front-family: 'Permanent Marker';
+}    
+body{
+
+    background-image: url("background pictures.jpg");
+}
+#sunset {
+    background-image: url("background pictures.jpg");
+
+}
+p{
+    color: aliceblue;
+}
+
+a{
+    color: aqua;
+}
